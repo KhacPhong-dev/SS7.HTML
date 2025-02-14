@@ -1,0 +1,46 @@
+img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+
+}
+table{
+    border-spacing: 5px;
+}
+body{
+    color: purple;
+    font-family: "Arial", sans-serif;
+
+}
+.nutdo{
+    
+    background-color: rgb(225, 19, 19);
+    color: white;
+    height: 40px;
+    border-radius: 8px;
+    border: 2px solid  rgb(225, 19, 19);
+    transition-duration: 0.4s;
+
+}
+.button {  
+    text-align: center;
+    border-radius: 5px;
+    border: padding-box;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 40px;
+    border-radius: 8px;
+    border: 2px solid  rgb(112, 100, 100);
+     transition-duration: 0.4s;
+}
+.button:hover {  
+    border: 2px solid  rgb(225, 19, 19);
+
+    background-color: rgb(225, 19, 19);  
+    color: white;
+}
+.nutdo:hover{
+    background-color: white;
+    color: rgb(5, 4, 4);
+    border: 2px solid rgb(0, 0, 0);
+}

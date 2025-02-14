@@ -1,0 +1,31 @@
+table{
+    border-spacing: 5px;
+
+}
+button{
+    text-align: center;
+    border-radius: 5px;
+    width: 100%;
+    height: 150px;
+    border: padding-box;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border: 2px solid  rgb(234, 188, 188);
+    transition-duration: 0.4s;
+}
+button:hover{
+    border: 2px solid  rgb(175, 104, 104);
+    background-color:rgb(175, 104, 104);
+    color: rgb(25, 18, 18);
+    
+}
+h3{
+    color: rgb(225, 19, 19);
+}
+body{
+    font-family: "Arial", sans-serif;
+}
+view{
+    background-size: 175%;
+}
+
